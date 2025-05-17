@@ -1,14 +1,14 @@
 BD21 Lite (True Bypass)
 
-�u���O�L����https://drugscore.blog.fc2.com/blog-entry-49.html
+製作記事→https://kanengomibako.github.io/pages/00049.html
 
-BEHRINGER BDI21���ȗ��������G�t�F�N�^�[�ł��BXLR OUTPUT��PARALLEL OUTPUT�͂Ȃ��A�g�D���[�o�C�p�X�p�ł��B
+BEHRINGER BDI21を簡略化したエフェクターです。XLR OUTPUTやPARALLEL OUTPUTはなく、トゥルーバイパス用です。
 
-�|�b�g�̔z�������Ȃ��Ă����悤�ȃ��C�A�E�g�ɂ��܂����B�|�b�g�̊Ԋu�́A��18mm�A�c25mm�ł��BHAMMOND1590B�T�C�Y�œd�r�����邱�Ƃ��ł��܂��B
+ポットの配線をしなくていいようなレイアウトにしました。ポットの間隔は、横18mm、縦25mmです。HAMMOND1590Bサイズで電池を入れることもできます。
 
-���Ȃ�p�[�c���m�̊��o�������̂ŁA�傫�߂̕��i���g���͖̂��������ł��B�����̂�����͓��ɋ����Ȃ��Ă���AR1(1M)��5mm���x�������Ď��t���邱�Ƃ������߂��܂��B�������ׂ�Č��ɂ����Ƃ����BD21Lite_parts.png�Ŋm�F�ł��܂��B
+かなりパーツ同士の感覚が狭いので、大きめの部品を使うのは無理そうです。左下のあたりは特に狭くなっており、R1(1M)は5mm程度浮かして取り付けることをお勧めします。文字が潰れて見にくいところはBD21Lite_parts.pngで確認できます。
 
-���p�[�c���X�g��
+＜パーツリスト＞
 33p	2	C22, C23
 220p	2	C12, C13
 470p	1	C9
